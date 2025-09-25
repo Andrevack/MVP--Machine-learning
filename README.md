@@ -1,5 +1,5 @@
 # MVP--Machine-learning
-Projeto de Análise de Crédito – Default de Clientes de Cartão de Crédito
+--Projeto de Análise de Crédito – Default de Clientes de Cartão de Crédito
 
 Este projeto utiliza o dataset Default of Credit Card Clients, que contém informações financeiras e demográficas de 30.000 clientes de cartão de crédito em Taiwan, incluindo limite de crédito, histórico de pagamentos, valores de faturas e montantes pagos ao longo de seis meses.
 

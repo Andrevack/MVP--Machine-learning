@@ -6,11 +6,11 @@ Este projeto utiliza o dataset Default of Credit Card Clients, que contém infor
 
 # Conteúdo do Repositório
 
--Meu_MVP_Machine_Learning.ipynb: Notebook em Python com o código completo para limpeza, análise e visualização dos dados.
-crx.data: Dataset original utilizado, hospedado neste repositório e carregado diretamente via URL no notebook.
+ -Meu_MVP_Machine_Learning.ipynb: Notebook em Python com o código completo para limpeza, análise e visualização dos dados.
+ 
+  UCI_Credit_Card.csv: Dataset original utilizado, hospedado neste repositório e carregado diretamente via URL no notebook.
 
-
-Como Executar
+# Como Executar
 
 Abra o notebook no Google Colab ou Jupyter Notebook.
 

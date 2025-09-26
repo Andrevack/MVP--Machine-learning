@@ -6,7 +6,7 @@ Este projeto utiliza o dataset Default of Credit Card Clients, que contém infor
 
 # Conteúdo do Repositório
 
-Meu_MVP_Andrevack_alterado (1).ipynb: Notebook em Python com o código completo para limpeza, análise e visualização dos dados.
+-Meu_MVP_Machine_Learning.ipynb: Notebook em Python com o código completo para limpeza, análise e visualização dos dados.
 crx.data: Dataset original utilizado, hospedado neste repositório e carregado diretamente via URL no notebook.
 
 
